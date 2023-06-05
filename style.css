@@ -1,0 +1,48 @@
+h1{
+    font-size: large;
+    text-align: center;
+    color:sienna;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-weight:bolder;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:coral;
+    text-align: center;
+}
+p{
+    font-weight: bold;
+    font-size: medium;
+    color: rgb(124, 78, 78);
+    text-align: center; 
+}
+li{
+    text-align: center;
+}
+.image{
+    align-items:center;
+}
+.About{
+    font-style: oblique;
+    text-align: center;
+}
+.Experience{
+    font-style: italic;
+    text-align: center;
+}
+.Qualification{
+    font-style:inherit;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}
+.Contact{
+    align-items: center;    
+}
+img {
+    max-width: 100%;
+  height: auto;
+
+  }
